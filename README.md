@@ -21,4 +21,12 @@
 
 ### *1102 Algorithm*
 ##### Dinamic Programming
+*0/1 Knapsack Problem*
+> There are  programming assignments and  minutes until the deadline.
+Each assignment has  points, and it takes  minutes continuously.
+Find the maximum score that you can achieve.
+> Input Format :
+Input starts with two integers and Each of the following  lines contains two integers  and 
+> Output Format
+Output the maximum score that you can achieve.
 ##### Graph
