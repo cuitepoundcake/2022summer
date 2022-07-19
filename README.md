@@ -1,5 +1,5 @@
 ###### 2022summer self practice
-##### Machine Learning
+### *Machine Learning*
 ###### MNIST 手寫阿拉伯數字辨識
 嘗試使用兩個不同演算法
 1.CNN
