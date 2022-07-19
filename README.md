@@ -14,7 +14,7 @@
 - 使用openCV內建KNN套件 設定參數 並開始訓練
 - 訓練完後 儲存模型並使用測試集進行測試
 - 準確率為 0.9688
-- 將要辨識的黑白手寫阿拉伯數字至於鏡頭前
+- 將要辨識的黑白手寫阿拉伯數字置於鏡頭前
 - 紅色框框上方將顯示辨識結果  
  
 ![MNIST_KNN_AdobeExpress (1)](https://user-images.githubusercontent.com/109210243/179028969-ecadc25d-0188-452c-af8e-c4e64e95894b.gif)  
