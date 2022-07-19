@@ -1,7 +1,10 @@
-#### 2022summer
-small project and learning process record
+###### 2022summer self practice
+##### Machine Learning
+###### MNIST 手寫阿拉伯數字辨識
+嘗試使用兩個不同演算法
+1.CNN
+2.KNN
 
-##### MNIST
 安裝完所有所需套件後
 使用keras內建的MNIST手寫字符數據集
 其中訓練集有60,000張28x28像素灰度圖像， 測試集則有10,000張
