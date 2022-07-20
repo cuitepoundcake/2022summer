@@ -1,16 +1,14 @@
 ###### 2022summer self practice
 ## *Machine Learning*
 ### - MNIST 手寫阿拉伯數字辨識
-嘗試使用兩個不同方法:  
-1.CNN(Convolutional Neural Networks)  
-2.KNN(K Nearest Neighbor)
 
 安裝完所有所需套件後
 使用keras內建的MNIST手寫字符數據集
 其中訓練集有60,000張28x28像素灰度圖像， 測試集則有10,000張
+搭被OpenCV中KNN套件
 
 ###### 步驟如下
-- 首先轉換資料格式集型態
+- 首先轉換資料格式及形狀
 - 使用openCV內建KNN套件 設定參數 並開始訓練
 - 訓練完後 儲存模型並使用測試集進行測試
 - 準確率為 0.9688
