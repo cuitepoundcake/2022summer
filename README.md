@@ -14,8 +14,9 @@
 - 準確率為 0.9688
 - 將要辨識的黑白手寫阿拉伯數字置於鏡頭前
 - 紅色框框上方將顯示辨識結果  
- 
+ [參考程式碼](https://github.com/cuitepoundcake/2022summer/blob/main/new_ju.ipynb)
 ![MNIST_KNN_AdobeExpress (1)](https://user-images.githubusercontent.com/109210243/179028969-ecadc25d-0188-452c-af8e-c4e64e95894b.gif)  
+
 > ##### *心得*  
 > 我認為其實對於新手而言最大的難題是了解以及安裝各個套件的部分，畢竟網路上已有許多程式資源可參考，然安裝還是得自行操作  
 > 然而安裝完成也對於程式運作的整個進程熟悉後，後續就是要再加深對於各個套件的熟悉度，才能加以利用以訓練模型  
@@ -24,9 +25,9 @@
 搜尋機器學習入門找到的第一個題目就是鐵達尼生存預測，覺得很有趣於是來試試  
 test data裡面有各個乘客的不同基本資料，我先把一些較難以判斷的資訊刪掉後，以較為簡略的方式去訓練模型  
 使用3種classification algorithms :  
-○1.logistic regression  
-○2.naïve bayes  
-○3.decision tree  
+○1.logistic regression ([code](https://github.com/cuitepoundcake/2022summer/blob/main/Titanic.ipynb))  
+○2.naïve bayes ([code](https://github.com/cuitepoundcake/2022summer/blob/main/Titanic_NB.ipynb))  
+○3.decision tree ([code](https://github.com/cuitepoundcake/2022summer/blob/main/Titanic_DecisionTree.ipynb))    
 
 準確率如下表:
 |type of algorithm | accuracy |
