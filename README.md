@@ -23,6 +23,20 @@
 ### - Titanic (my first Kaggle practice)
 搜尋機器學習入門找到的第一個題目就是鐵達尼生存預測，覺得很有趣於是來試試  
 test data裡面有各個乘客的不同基本資料，我先把一些較難以判斷的資訊刪掉後，以較為簡略的方式去訓練模型  
+使用3種classification algorithms :  
+○1.logistic regression  
+○2.naïve bayes  
+○3.decision tree  
+
+準確率如下表:
+|type of algorithm | accuracy |
+|------------------|----------|
+|Logistic Regression|0.810055  |
+|Naive Bayes |0.776536|
+|Decision Tree |0.815642|  
+由結果可知，以上述方式處理資料後，準確率最高的方式為使用Decision Tree  
+
+上傳logistic regression至kaggle:  
 > ![image](https://user-images.githubusercontent.com/109210243/179790582-f917495c-5483-4479-967c-85128c8e4280.png)  
 準確率尚可但並不高，以後對機器學習更熟悉後會想更進一步思考該如何運用不同訊息去增加準確率  
 
